@@ -1,0 +1,5 @@
+  instrument                          Company Name  TR.AvgDailyVolume30D      TR.PE  TR.DividendYield   TR.CompanyMarketCap  TR.InvtrReturnOnEquity    TR.Revenue  TR.F.ReturnInvstCapPct  TR.GrossProfit
+0     META.O                    Meta Platforms Inc              19514579   29.73441          0.435341  1159265489800.320068                    <NA>  134902000000               25.586997    108896000000
+1      IBM.N  International Business Machines Corp               1520314  22.835451          3.620107   167475078941.209991                    <NA>   61860000000               11.666286     34300000000
+2     GOOG.O                          Alphabet Inc              20704489  26.439736              <NA>       1799024310000.0                    0.02  307394000000               26.071188    175022000000
+3     AAPL.O                             Apple Inc              55275917  29.454096          0.511509       2923148073300.0                   -1.55  383285000000               58.015318    169148000000
